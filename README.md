@@ -63,5 +63,4 @@ This project is intended for educational purposes only. Do not use these tools o
 
 ---
 
-**Author**
 Developed as part of a cybersecurity learning journey.
